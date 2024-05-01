@@ -1,6 +1,6 @@
-**<p style="font-size:32px;">Reading List:</p>**
+**<p style="font-size:32px;">READING LIST</p>**
 
-**<u><p style="font-size:25px;">Books:</p></u>**
+**<u><p style="font-size:25px;">BOOKS:</p></u>**
 
 Madigan, M. T., Bender, K. S., Buckley, D. H. (Daniel H., Sattley, W. M., Stahl, D. A., & Brock, T. D. (2022). **Brock biology of microorganisms** (Sixteenth edition / Michael T. Madigan, Kelly S. Bender, Daniel H. Buckley, W. Matthew Sattley, David A. Stahl.). Pearson.
 [https://monash.primo.exlibrisgroup.com/permalink/61MONASH_AU/68cpj9/alma9940559224001751](https://monash.primo.exlibrisgroup.com/permalink/61MONASH_AU/68cpj9/alma9940559224001751)
@@ -14,7 +14,7 @@ Larone, D. H., Walsh, T., Hayden, R. T., Hayden, R. T., & Hayden, R. T. (2018). 
 Atlas, R. M. (2010). **Handbook of microbiological media** (4th ed.). Taylor & Francis.
 [https://monash.primo.exlibrisgroup.com/permalink/61MONASH_AU/68cpj9/alma99298052701751](https://monash.primo.exlibrisgroup.com/permalink/61MONASH_AU/68cpj9/alma99298052701751)
 
-**<u><p style="font-size:25px;">Journal Articles:</p></u>**
+**<u><p style="font-size:25px;">JOURNAL ARTICLES:</p></u>**
 
 Mohapatra S. (2017). **Sterilization and Disinfection. Essentials of Neuroanesthesia**, 929–944. https://doi.org/10.1016/B978-0-12-805299-0.00059-2
 
@@ -26,7 +26,7 @@ Sanders E. R. (2012). **Aseptic laboratory techniques: volume transfers with ser
 
 Siddiquee S. (2017). **The Basic Concept of Microbiology**. Practical Handbook of the Biology and Molecular Diversity of Trichoderma Species from Tropical Regions, 1–15. https://doi.org/10.1007/978-3-319-64946-7_1
 
-**<u><p style="font-size:25px;">Webpages:</p></u>**
+**<u><p style="font-size:25px;">WEBPAGES:</p></u>**
 
 [https://microscopeinternational.com/blog/](https://microscopeinternational.com/blog/)
 
@@ -36,7 +36,7 @@ This webpage contains lot's of interesting articles that are related to microsco
 
 This webpage discusses what aseptic techniques are and how to perform them. It also provides guidance on inoculating agar plates, slopes, and cultures aseptically.
 
-**<u><p style="font-size:25px;">Databases:</p></u>**
+**<u><p style="font-size:25px;">DATABASES:</p></u>**
 
 **MediaDive**
 
@@ -56,7 +56,7 @@ GROWREC allows users to upload a 16S rDNA sequence or a NCBI taxon ID for any or
 
 The media available in TogoMedium have been compiled from information provided by diverse bioresource centers and research papers. All information in TogoMedium is described as RDF and the composition of these media is described with Growth Medium Ontology. This enables users to investigate the interconnectedness between organisms, media, and their ingredients, facilitating a deeper understanding of their relationships.
 
-**<u><p style="font-size:25px;">Supplemented PDF Files:</p></u>**
+**<u><p style="font-size:25px;">SUPPLEMENTED PDF FILES:</p></u>**
 
 **Fundamental Concepts and Microbiological Laboratory Techniques:**
 
