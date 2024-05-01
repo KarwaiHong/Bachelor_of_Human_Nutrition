@@ -1,6 +1,6 @@
-**<p style="font-size:20px;">Reading List:</p>**
+**<p style="font-size:25px;">Reading List:</p>**
 
-**<u>Books</u>**
+**<p style="font-size:23px;">Books</p>**
 
 Madigan, M. T., Bender, K. S., Buckley, D. H. (Daniel H., Sattley, W. M., Stahl, D. A., & Brock, T. D. (2022). **Brock biology of microorganisms** (Sixteenth edition / Michael T. Madigan, Kelly S. Bender, Daniel H. Buckley, W. Matthew Sattley, David A. Stahl.). Pearson.
 [https://monash.primo.exlibrisgroup.com/permalink/61MONASH_AU/68cpj9/alma9940559224001751](https://monash.primo.exlibrisgroup.com/permalink/61MONASH_AU/68cpj9/alma9940559224001751)
@@ -14,7 +14,7 @@ Larone, D. H., Walsh, T., Hayden, R. T., Hayden, R. T., & Hayden, R. T. (2018). 
 Atlas, R. M. (2010). **Handbook of microbiological media** (4th ed.). Taylor & Francis.
 [https://monash.primo.exlibrisgroup.com/permalink/61MONASH_AU/68cpj9/alma99298052701751](https://monash.primo.exlibrisgroup.com/permalink/61MONASH_AU/68cpj9/alma99298052701751)
 
-**</u>Webpages</u>**
+**<p style="font-size:23px;"Webpages</p>**
 
 [https://microscopeinternational.com/blog/](https://microscopeinternational.com/blog/)
 
