@@ -1,6 +1,6 @@
-**<p style="font-size:28px;">Reading List:</p>**
+**<p style="font-size:32px;">Reading List:</p>**
 
-**<p style="font-size:23px;">Books</p>**
+**<p style="font-size:25px;">Books:</p>**
 
 Madigan, M. T., Bender, K. S., Buckley, D. H. (Daniel H., Sattley, W. M., Stahl, D. A., & Brock, T. D. (2022). **Brock biology of microorganisms** (Sixteenth edition / Michael T. Madigan, Kelly S. Bender, Daniel H. Buckley, W. Matthew Sattley, David A. Stahl.). Pearson.
 [https://monash.primo.exlibrisgroup.com/permalink/61MONASH_AU/68cpj9/alma9940559224001751](https://monash.primo.exlibrisgroup.com/permalink/61MONASH_AU/68cpj9/alma9940559224001751)
@@ -14,7 +14,7 @@ Larone, D. H., Walsh, T., Hayden, R. T., Hayden, R. T., & Hayden, R. T. (2018). 
 Atlas, R. M. (2010). **Handbook of microbiological media** (4th ed.). Taylor & Francis.
 [https://monash.primo.exlibrisgroup.com/permalink/61MONASH_AU/68cpj9/alma99298052701751](https://monash.primo.exlibrisgroup.com/permalink/61MONASH_AU/68cpj9/alma99298052701751)
 
-**<p style="font-size:23px;">Journal Articles:</p>**
+**<p style="font-size:25px;">Journal Articles:</p>**
 
 Mohapatra S. (2017). **Sterilization and Disinfection. Essentials of Neuroanesthesia**, 929–944. https://doi.org/10.1016/B978-0-12-805299-0.00059-2
 
@@ -26,7 +26,7 @@ Sanders E. R. (2012). **Aseptic laboratory techniques: volume transfers with ser
 
 Siddiquee S. (2017). **The Basic Concept of Microbiology**. Practical Handbook of the Biology and Molecular Diversity of Trichoderma Species from Tropical Regions, 1–15. https://doi.org/10.1007/978-3-319-64946-7_1
 
-**<p style="font-size:23px;">Webpages</p>**
+**<p style="font-size:25px;">Webpages:</p>**
 
 [https://microscopeinternational.com/blog/](https://microscopeinternational.com/blog/)
 
@@ -36,7 +36,26 @@ This webpage contains lot's of interesting articles that are related to microsco
 
 This webpage discusses what aseptic techniques are and how to perform them. It also provides guidance on inoculating agar plates, slopes, and cultures aseptically.
 
-**<p style="font-size:23px;">Supplemented PDF Files:</p>**
+**<p style="font-size:25px;">Databases:</p>**
+
+**MediaDive**
+[https://mediadive.dsmz.de/](https://mediadive.dsmz.de/)
+
+A comprehensive and expert-curated cultivation media database, which comprises recipes, instructions and molecular compositions of >3200 standardized cultivation media for >40 000 microbial strains from all domains of life.
+
+**KOMODO & GROWREC**
+[https://komodo.modelseed.org/](https://komodo.modelseed.org/)
+
+GROWREC allows users to upload a 16S rDNA sequence or a NCBI taxon ID for any organism, and get predictions of likely lab media from the known catalogue of DSMZ that known as KOMODO.
+
+**TogoMedium**
+[https://togomedium.org/](https://togomedium.org/)
+
+The media available in TogoMedium have been compiled from information provided by diverse bioresource centers and research papers. All information in TogoMedium is described as RDF and the composition of these media is described with Growth Medium Ontology. This enables users to investigate the interconnectedness between organisms, media, and their ingredients, facilitating a deeper understanding of their relationships.
+
+**<p style="font-size:25px;">Supplemented PDF Files:</p>**
+
+**Fundamental Concepts and Microbiological Laboratory Techniques:**
 
 1-1_The_Basic_Concept_of_Microbiology.pdf
 
@@ -52,9 +71,13 @@ This webpage discusses what aseptic techniques are and how to perform them. It a
 
 1-7_Lactophenol_Cotton_Blue_Staining_Protocol_by_Hardy_Diagnostics.pdf
 
+**Microscopy:**
+
 1-8_Olympus_CX21_Education_Microscope_Manual.pdf
 
 1-9_The_Microscope_Camera_Software_Help_Manual.pdf
+
+**Food Microbiology:**
 
 1-10_The_Importance_of_Bacterial_Culture_to_Food_Microbiology_in_the_Age_of_Genomics.pdf
 
