@@ -21,24 +21,35 @@ This comprehensive exploration into the realm of microbial identification throug
 **B-1-1.	Gram Staining:**
 
 Step 1.	Prepare a heat-fixed smear of the bacterial culture on a clean slide.
+
 Step 2.	Flood the smear with crystal violet for 1 minute.
+
 Step 3.	Rinse with water and flood with iodine solution for 1 minute.
+
 Step 4.	Decolorize with alcohol and rinse immediately.
+
 Step 5.	Counterstain with safranin for 1-2 minutes.
+
 Step 6.	Rinse, blot dry, and examine under a microscope.
 
 **B-1-2.	Acid-fast Staining (for Mycobacteria):**
 
 Step 1.	Heat-fix the smear.
+
 Step 2.	Flood with carbol fuchsin and steam gently for 5 minutes.
+
 Step 3.	Decolorize with acid-alcohol.
+
 Step 4.	Counterstain with methylene blue for 1 minute.
+
 Step 5.	Rinse, blot dry, and examine under a microscope.
 
 **B-1-3.	Lactophenol Cotton Blue Staining (for Fungi and Yeasts):**
 
 Step 1.	Prepare a wet mount of the fungal or yeast sample.
+
 Step 2.	Add a drop of lactophenol cotton blue.
+
 Step 3.	Place a coverslip and examine under a microscope.
 
 **B-2.	Media Preparation:**
@@ -46,10 +57,16 @@ Step 3.	Place a coverslip and examine under a microscope.
 **B-2-1.	Nutrient Agar:**
 
 Step 1.	Dissolve 28g of nutrient agar in 1 liter of distilled water.
+
 Step 2.	Autoclave at 121°C for 15 minutes.
+
 Step 3.	Cool to 45-50°C and pour into sterile Petri dishes.
 
 **B-2-2.	Sabouraud Dextrose Agar (for Fungi and Yeasts):**
+
 Step 1.	Dissolve 65g of Sabouraud dextrose agar in 1 liter of distilled water.
+
 Step 2.	Autoclave at 121°C for 15 minutes.
+
 Step 3.	Cool to 45-50°C and pour into sterile Petri dishes.
+
