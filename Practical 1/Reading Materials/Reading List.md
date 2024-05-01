@@ -17,4 +17,5 @@ Atlas, R. M. (2010). **Handbook of microbiological media** (4th ed.). Taylor & F
 **</u>Webpages</u>**
 
 [https://microscopeinternational.com/blog/](https://microscopeinternational.com/blog/)
+
 This webpage contains lot's of interesting articles that are related to microscopes, such as "How Does a Microscope Work?", "Types of Microscopes", "How to Use a Microscope (Properly) - Step by Step".
